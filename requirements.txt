@@ -6,3 +6,5 @@ tensorboard
 streamlit
 scikeras
 nltk
+plotly
+streamlit_lottie
